@@ -10,6 +10,6 @@
       <a href="{base}/">HOME</a>
       <a href="{base}/awards">AWARDS</a>
       <a href="{base}/leadership">LEADERSHIP</a>
-      <a href="{base}/projects">PROJECTS</a>
+      <a href="{base}/myprojects">PROJECTS</a>
   </nav>
 </div>
