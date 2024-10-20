@@ -4,7 +4,6 @@
   import Row from "../lib/components/Row.svelte";
 </script>
 
-<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -19,4 +18,3 @@
     <Row title="My Hobbies" body="In my free time, I like to read, play violin, swim, play video games and sleep." />
   </main>
 </body>
-</html>

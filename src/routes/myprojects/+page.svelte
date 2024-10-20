@@ -4,7 +4,6 @@
   import Project from "../../lib/components/Project.svelte";
 </script>
 
-<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,4 +19,3 @@
     <Project link="https://renaissancedog.github.io/projects/cookie.html" title="Cookie Clicker" body="My first web app - written in basic JS"/>
   </main>
 </body>
-</html>

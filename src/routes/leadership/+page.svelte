@@ -4,7 +4,6 @@
   import Row from "../../lib/components/Row.svelte";
 </script>
 
-<html lang="en">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -21,4 +20,3 @@
     <Row title="Co-Founder, Renaissance Dog Walkers (2022-2023)" body="Started and managed a dog-walking business with friends"/>
   </main>
 </body>
-</html>
