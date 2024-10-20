@@ -1,3 +1,13 @@
-<script>import "../app.css";</script><slot class="font-sans"></slot>
-<link rel="shortcut icon" type="shortcut icon" href="/ghpages/favicon.ico">
-<div class="h-full"></div>
+<script>
+  import "../app.css";
+  import Navbar from "../lib/components/Navbar.svelte";
+  import { base } from "$app/paths";
+</script>
+
+<svelte:head>
+  <title>William Liu</title>
+</svelte:head>
+<div class="bg-gray-900 h-full">
+  <Navbar {base} />
+  <slot></slot>
+</div>
